@@ -1,0 +1,16 @@
+main: TheRealMcrafter.LunaCityUtils.main.LunaCityUtils
+name: LunaCityUtils
+version: 0.1
+author: TheRealMcrafter
+description: Various helper utilities for LunaCraft Cities!
+api-version: 1.15
+depend: []
+commands:
+  lunacityutils:
+    description: All of the commands for LunaCityUtils.
+  lcu:
+    description: All of the commands for LunaCityUtils.
+permissions:
+    lunautils.admin:
+        description: All of the admin permissions for LunaCityUtils.
+        default: op
