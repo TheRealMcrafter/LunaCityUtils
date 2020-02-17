@@ -11,6 +11,6 @@ commands:
   lcu:
     description: All of the commands for LunaCityUtils.
 permissions:
-    lunautils.admin:
+    lunacityutils.admin:
         description: All of the admin permissions for LunaCityUtils.
         default: op
